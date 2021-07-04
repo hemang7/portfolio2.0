@@ -1,12 +1,21 @@
 export const projects = [
   {
+    title: 'Pizza Store',
+    description: "The homepage for my imaginary pizza shop.",
+      image: '/images/5.png',
+      tags: ['Javascript', 'React'],
+    source: 'https://hm-pizzastore.netlify.app/',
+    visit: 'https://github.com/hemang7/PizzaStore',
+    id: 0,
+  },
+  {
     title: 'Plasma Life',
     description: "A plasma donation app that helps create a network of plasma donors and covid patients.",
       image: '/images/1.png',
       tags: ['Bootstrap', 'React', 'Firebase'],
     source: 'https://jodhpur-plasma.netlify.app/',
     visit: 'https://github.com/hemang7/Plasma_Donation',
-    id: 0,
+    id: 1,
   },
   {
     title: 'Photo Gallery',
@@ -15,7 +24,7 @@ export const projects = [
     tags: ['React', 'JavaScript', 'Firebase'],
     source: 'https://hm-photo-gallery.netlify.app/',
     visit: 'https://github.com/hemang7/photo-gallery',
-    id: 1,
+    id: 2,
   },
   {
     title: 'Todo App',
@@ -24,7 +33,7 @@ export const projects = [
       tags: ['HTML', 'CSS','React','Javascript'],
     source: 'https://todo-hm.herokuapp.com//',
     visit: 'https://github.com/hemang7/todo-app',
-    id: 2,
+    id: 3,
   },
   {
     title: 'IPL Rooster',
@@ -33,7 +42,7 @@ export const projects = [
     tags: ['React', 'Javascript'],
     source: 'https://ipl-rooster.netlify.app/',
     visit: 'https://github.com/hemang7/ipl',
-    id: 3,
+    id: 4,
   },
 ];
 
