@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Pizza Store',
-    description: "The homepage for my imaginary pizza shop.",
+    description: "My imaginary pizza shop.",
       image: '/images/5.png',
       tags: ['Javascript', 'React'],
     source: 'https://hm-pizzastore.netlify.app/',
