@@ -27,13 +27,22 @@ export const projects = [
     id: 2,
   },
   {
+    title: 'Tic-Tac-Toe',
+    description:"Let's have a game of tic-tac-toe.",
+    image: '/images/6.png',
+    tags: ['React', 'JavaScript', 'CSS'],
+    source: 'https://hm-tictactoe.netlify.app/',
+    visit: 'https://github.com/hemang7/tictactoe',
+    id: 3,
+  },
+  {
     title: 'Todo App',
     description: "A simple to-do app that lets you maintain and delete your notes.",
       image: '/images/3.png',
       tags: ['HTML', 'CSS','React','Javascript'],
     source: 'https://todo-hm.herokuapp.com//',
     visit: 'https://github.com/hemang7/todo-app',
-    id: 3,
+    id: 4,
   },
   {
     title: 'IPL Rooster',
@@ -42,7 +51,7 @@ export const projects = [
     tags: ['React', 'Javascript'],
     source: 'https://ipl-rooster.netlify.app/',
     visit: 'https://github.com/hemang7/ipl',
-    id: 4,
+    id: 5,
   },
 ];
 
