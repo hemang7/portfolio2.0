@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'CryptoMania',
     description:"Live tracking of all cryptocurrencies.",
-    image: '/images/6.png',
+    image: '/images/7.png',
     tags: ['React', 'JavaScript', 'CSS'],
     source: 'https://hm-cryptotracker.netlify.app/',
     visit: 'https://github.com/hemang7/cryptoTracker',
