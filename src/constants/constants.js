@@ -27,13 +27,22 @@ export const projects = [
     id: 2,
   },
   {
+    title: 'CryptoMania',
+    description:"Live tracking of all cryptocurrencies.",
+    image: '/images/6.png',
+    tags: ['React', 'JavaScript', 'CSS'],
+    source: 'https://hm-cryptotracker.netlify.app/',
+    visit: 'https://github.com/hemang7/cryptoTracker',
+    id: 3,
+  },
+  {
     title: 'Tic-Tac-Toe',
     description:"Let's have a game of tic-tac-toe.",
     image: '/images/6.png',
     tags: ['React', 'JavaScript', 'CSS'],
     source: 'https://hm-tictactoe.netlify.app/',
     visit: 'https://github.com/hemang7/tictactoe',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Todo App',
@@ -42,7 +51,7 @@ export const projects = [
       tags: ['HTML', 'CSS','React','Javascript'],
     source: 'https://todo-hm.herokuapp.com//',
     visit: 'https://github.com/hemang7/todo-app',
-    id: 4,
+    id: 5,
   },
   {
     title: 'IPL Rooster',
@@ -51,7 +60,7 @@ export const projects = [
     tags: ['React', 'Javascript'],
     source: 'https://ipl-rooster.netlify.app/',
     visit: 'https://github.com/hemang7/ipl',
-    id: 5,
+    id: 6,
   },
 ];
 
