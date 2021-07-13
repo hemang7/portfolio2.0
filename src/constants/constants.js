@@ -18,6 +18,15 @@ export const projects = [
     id: 1,
   },
   {
+    title: 'CryptoMania',
+    description:"Live tracking of various cryptocurrencies.",
+    image: '/images/7.png',
+    tags: ['React', 'JavaScript', 'CSS'],
+    source: 'https://hm-cryptotracker.netlify.app/',
+    visit: 'https://github.com/hemang7/cryptoTracker',
+    id: 3,
+  },
+  {
     title: 'Photo Gallery',
     description:"A photo gallery app that lets you store and view your precious moments.",
     image: '/images/2.png',
@@ -26,15 +35,7 @@ export const projects = [
     visit: 'https://github.com/hemang7/photo-gallery',
     id: 2,
   },
-  {
-    title: 'CryptoMania',
-    description:"Live tracking ofvariouscryptocurrencies.",
-    image: '/images/7.png',
-    tags: ['React', 'JavaScript', 'CSS'],
-    source: 'https://hm-cryptotracker.netlify.app/',
-    visit: 'https://github.com/hemang7/cryptoTracker',
-    id: 3,
-  },
+  
   {
     title: 'Tic-Tac-Toe',
     description:"Let's have a game of tic-tac-toe.",
