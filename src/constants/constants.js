@@ -24,7 +24,7 @@ export const projects = [
     tags: ['React', 'JavaScript', 'CSS'],
     source: 'https://hm-cryptotracker.netlify.app/',
     visit: 'https://github.com/hemang7/cryptoTracker',
-    id: 3,
+    id: 2,
   },
   {
     title: 'Photo Gallery',
@@ -33,7 +33,7 @@ export const projects = [
     tags: ['React', 'JavaScript', 'Firebase'],
     source: 'https://hm-photo-gallery.netlify.app/',
     visit: 'https://github.com/hemang7/photo-gallery',
-    id: 2,
+    id: 3,
   },
   
   {
