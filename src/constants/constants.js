@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'CryptoMania',
-    description:"Live tracking of various cryptocurrencies.",
+    description:"Livetrackingofvariouscryptocurrencies.",
     image: '/images/7.png',
     tags: ['React', 'JavaScript', 'CSS'],
     source: 'https://hm-cryptotracker.netlify.app/',
