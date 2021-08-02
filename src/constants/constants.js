@@ -23,7 +23,7 @@ export const projects = [
     description: "A weather app.",
       image: '/images/4.png',
       tags: ['Javascript', 'React'],
-    source: 'http://hm-weather-app.netlify.app/
+    source: 'http://hm-weather-app.netlify.app/'
     visit: 'https://github.com/hemang7/Weather-App',
     id: 2,
   },
