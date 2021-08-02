@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Pizza Store',
-    description: "My imaginary pizza shop.",
-      image: '/images/5.png',
+    title: 'Meme Generator',
+    description: "Meme generator app.",
+      image: '/images/3.png',
       tags: ['Javascript', 'React'],
-    source: 'https://hm-pizzastore.netlify.app/',
-    visit: 'https://github.com/hemang7/PizzaStore',
+    source: 'https://hm-memegen.netlify.app/',
+    visit: 'https://github.com/hemang7/meme_generator',
     id: 0,
   },
   {
@@ -17,6 +17,16 @@ export const projects = [
     visit: 'https://github.com/hemang7/Plasma_Donation',
     id: 1,
   },
+  
+  {
+    title: 'Weather App',
+    description: "A weather app.",
+      image: '/images/4.png',
+      tags: ['Javascript', 'React'],
+    source: 'http://hm-weather-app.netlify.app/
+    visit: 'https://github.com/hemang7/Weather-App',
+    id: 2,
+  },
   {
     title: 'CryptoMania',
     description:"Live crypto tracker.",
@@ -24,7 +34,7 @@ export const projects = [
     tags: ['React', 'JavaScript', 'CSS'],
     source: 'https://hm-cryptotracker.netlify.app/',
     visit: 'https://github.com/hemang7/cryptoTracker',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Photo Gallery',
@@ -33,36 +43,16 @@ export const projects = [
     tags: ['React', 'JavaScript', 'Firebase'],
     source: 'https://hm-photo-gallery.netlify.app/',
     visit: 'https://github.com/hemang7/photo-gallery',
-    id: 3,
-  },
-  
-  {
-    title: 'Tic-Tac-Toe',
-    description:"Let's have a game of tic-tac-toe.",
-    image: '/images/6.png',
-    tags: ['React', 'JavaScript', 'CSS'],
-    source: 'https://hm-tictactoe.netlify.app/',
-    visit: 'https://github.com/hemang7/tictactoe',
     id: 4,
   },
-  {
-    title: 'Todo App',
-    description: "A simple to-do app that lets you maintain and delete your notes.",
-      image: '/images/3.png',
-      tags: ['HTML', 'CSS','React','Javascript'],
-    source: 'https://todo-hm.herokuapp.com//',
-    visit: 'https://github.com/hemang7/todo-app',
+  
+  title: 'Pizza Store',
+    description: "My imaginary pizza shop.",
+      image: '/images/5.png',
+      tags: ['Javascript', 'React'],
+    source: 'https://hm-pizzastore.netlify.app/',
+    visit: 'https://github.com/hemang7/PizzaStore',
     id: 5,
-  },
-  {
-    title: 'IPL Rooster',
-    description: "An IPL rooster app that keeps a track of all team squads.",
-    image: '/images/4.png',
-    tags: ['React', 'Javascript'],
-    source: 'https://ipl-rooster.netlify.app/',
-    visit: 'https://github.com/hemang7/ipl',
-    id: 6,
-  },
 ];
 
 
