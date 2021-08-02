@@ -52,7 +52,7 @@ export const projects = [
       tags: ['Javascript', 'React'],
     source: 'https://hm-pizzastore.netlify.app/',
     visit: 'https://github.com/hemang7/PizzaStore',
-    id: 5,
+    id: 5
 ];
  
 
