@@ -19,22 +19,13 @@ export const projects = [
   },
   
   {
-    title: 'Weather App',
-    description: "A weather app.",
-      image: '/images/4.png',
-      tags: ['Javascript', 'React'],
-    source: 'http://hm-weather-app.netlify.app/',
-    visit: 'https://github.com/hemang7/Weather-App',
-    id: 2,
-  },
-  {
     title: 'CryptoMania',
     description:"Live crypto tracker.",
     image: '/images/7.png',
     tags: ['React', 'JavaScript', 'CSS'],
     source: 'https://hm-cryptotracker.netlify.app/',
     visit: 'https://github.com/hemang7/cryptoTracker',
-    id: 3,
+    id: 2,
   },
   {
     title: 'Photo Gallery',
@@ -43,7 +34,7 @@ export const projects = [
     tags: ['React', 'JavaScript', 'Firebase'],
     source: 'https://hm-photo-gallery.netlify.app/',
     visit: 'https://github.com/hemang7/photo-gallery',
-    id: 4,
+    id: 3,
   },
   
   title: 'Pizza Store',
@@ -52,7 +43,7 @@ export const projects = [
       tags: ['Javascript', 'React'],
     source: 'https://hm-pizzastore.netlify.app/',
     visit: 'https://github.com/hemang7/PizzaStore',
-    id: 5
+    id: 5,
 ];
  
 
