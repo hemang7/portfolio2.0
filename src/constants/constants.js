@@ -36,6 +36,7 @@ export const projects = [
     visit: 'https://github.com/hemang7/photo-gallery',
     id: 3,
   },
+  {
   
   title: 'Pizza Store',
     description: "My imaginary pizza shop.",
@@ -44,6 +45,7 @@ export const projects = [
     source: 'https://hm-pizzastore.netlify.app/',
     visit: 'https://github.com/hemang7/PizzaStore',
     id: 5,
+  }
 ];
  
 
